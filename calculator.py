@@ -1,4 +1,4 @@
-print("Примечание! Пишите ваше выражение с пробелами, иначе программа выдаст ошибку")
+print("Примечание! Пишите ваше выражение с пробелами, иначе программа выдаст ошибку/Note! Write your calculation with spaces, otherwise the program will give an error")
 while True:
     we = input("Введите выражение(или 'exit' для выхода):" )
     if we == "exit":
